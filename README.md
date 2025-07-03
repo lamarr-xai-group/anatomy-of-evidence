@@ -1,4 +1,4 @@
-## Anatomy of Evidence: An Investigation Into Medical Coding 
+## Anatomy of Evidence: An Investigation Into Explainable ICD Coding 
 
 Thank you for your interest in the code of our paper!
 
